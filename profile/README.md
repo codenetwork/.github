@@ -1,4 +1,6 @@
-## Hi there 👋
+# Welcome to Code Network!
+
+We are a QUT-based community dedicated to students who have a love for coding 🧑‍💻 and building 🔨 anything, as long as it is awesome!
 
 <!--
 
